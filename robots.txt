@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mihamozes-hub.github.io/HomeFix-Kulcsrakesz/sitemap.xml
